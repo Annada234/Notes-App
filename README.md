@@ -109,16 +109,18 @@ Deletes the selected note from Firebase.
 **Sign Up Page**
 <img width="540" height="1204" alt="image" src="https://github.com/user-attachments/assets/f61412f1-fd59-4e65-b15a-5103d42211b2" />
 
+---
+
 **Sign Up Screen**
 <img width="540" height="1204" alt="image" src="https://github.com/user-attachments/assets/c9ff81ee-d385-4499-8c27-d8216aefbbb7" />
 
+---
 
 <img width="540" height="1204" alt="image" src="https://github.com/user-attachments/assets/9f69c3f9-afb7-47fc-8b7d-12ab6374b6b5" />
+
+---
 
 
 <img width="540" height="1204" alt="image" src="https://github.com/user-attachments/assets/efed2396-7e1b-4656-bb52-b83642309390" />
 
-* Add dark mode
-* Add search functionality
-* Add note categories & colors
-* Cloud backup and offline support
+---
