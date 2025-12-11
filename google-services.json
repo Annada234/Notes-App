@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1030531221960",
+    "project_id": "login--sign-up-with-fire-e48e3",
+    "storage_bucket": "login--sign-up-with-fire-e48e3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030531221960:android:6e917bb25e64372c7958fd",
+        "android_client_info": {
+          "package_name": "com.example.loginandsignupwithfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwjk5nJh61yVJZZ3etSrPoAEQEI82QAbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
